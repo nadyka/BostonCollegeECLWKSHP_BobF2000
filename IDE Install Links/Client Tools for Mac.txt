@@ -1,0 +1,1 @@
+https://d2wulyp08c6njk.cloudfront.net/releases/CE-Candidate-9.4.28/bin/clienttools/hpccsystems-clienttools-community_9.4.28-1Darwin-x86_64.pkg 
